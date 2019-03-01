@@ -23,7 +23,7 @@ File: Report.pdf
 
 ## Data
 
-* We have utilized TensorFlow Speech Commands Data Sets [^fn3] containing 65000, 30 second long speech signals as a training sample.
+* We have utilized TensorFlow Speech Commands Data Sets [1] containing 65000, 30 second long speech signals as a training sample.
 
 * We have utilized 150,000 samples of test data, available in the [Kaggle Challenge] to test our model accuracy.
 
@@ -36,6 +36,10 @@ TBD
 ## Conclusions and Limitations
 TBD
 
+## References
+[1]: "Warden P. Speech Commands: A public dataset for single-word speech recognition, 2017. Available from http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz".
+
 [Kaggle Challenge]: https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 [here]: https://github.com/rdivyajd/Signal-Processing/tree/master/TensorFlow%20Speech%20Recognition%20Challenge
-[^fn3]: "Warden P. Speech Commands: A public dataset for single-word speech recognition, 2017. Available from http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz".
+
+
